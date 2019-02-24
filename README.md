@@ -19,6 +19,11 @@ We proposed results on the Human3.6M, KTH Football II and MPII dataset.
 <p align="center">
     <img src="http://www.sysu-hcp.net/wp-content/uploads/2019/01/WeChat-Screenshot_20190111210546.png">
 </p>
+
+### License
+
+This project is released for Adamic Research Use only.
+
 ### Get Started
 
 Clone the repo:
